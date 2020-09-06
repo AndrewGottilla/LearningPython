@@ -1,6 +1,6 @@
 ### 2020-09-06
 ### Author: Andrew Gottilla
-### Lesson 22: Numerical lists (aka Big Data baybeeee)
+### Lesson 21: Numerical lists (aka Big Data baybeeee)
 
 # Create list of numbers from 1 to 5
 numbers = list(range(1,6))
