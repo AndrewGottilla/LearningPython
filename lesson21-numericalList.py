@@ -7,6 +7,7 @@ numbers = list(range(1,6))
 print (numbers)
 
 # Create list of odd numbers from 1 to 50
+# Starts at 1 and then adds 2 repeatedly
 odd_numbers = list(range(1,51,2))
 print(odd_numbers)
 
