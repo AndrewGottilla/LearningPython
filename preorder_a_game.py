@@ -28,7 +28,7 @@ while preorders_open and preorders_remaining > 0:
         preorders_open = False
 print()
 
-# print message is all preorders were reserved
+# print message if all preorders were reserved
 if preorders_remaining == 0:
     print("[ VERY SORRY! ALL PREORDERS HAVE BEEN SOLD! ]\n")
 
