@@ -4,9 +4,7 @@
 
 def create_video_game(title, developer, **other):
     """Assign some info to a video game dictionary"""
-    video_game = {}
-    video_game['title'] = title
-    video_game['developer'] = developer
+    video_game = {'title' : title, 'developer' : developer}
     for key, value in other.items():
         video_game[key] = value
     return video_game
